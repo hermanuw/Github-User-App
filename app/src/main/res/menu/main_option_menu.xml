@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group
+        android:menuCategory="container">
+        <item
+            android:id="@+id/menu_favorite"
+            android:icon="@drawable/ic_favorite"
+            android:title="@string/menu_user_favorite"
+            app:iconTint="@color/red"
+            app:showAsAction="ifRoom"/>
+        <item
+            android:id="@+id/menu_dark_mode"
+            android:icon="@drawable/baseline_dark_mode_24"
+            android:title="@string/menu_dark_mode"
+            app:iconTint="@color/gray"
+            app:showAsAction="always"/>
+    </group>
+</menu>

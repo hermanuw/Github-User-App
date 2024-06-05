@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">GithubUserApp</string>
+    <string name="app_profile">App Profile</string>
+    <string name="followers_tab">Followers</string>
+    <string name="following_tab">Following</string>
+    <string name="description">Description</string>
+    <string name="review">Review</string>
+    <string name="login_tv">Login</string>
+    <string name="user_name">Username</string>
+    <string name="image_profile_photos">Profile</string>
+    <string name="search_username">Please Input Username</string>
+    <string name="menu_user_favorite">User Favorite</string>
+    <string name="send">Kirim</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="followers_and_following">Followers and Following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fav">Favorite</string>
+    <string name="theme_light">Light\n</string>
+    <string name="theme_auto">Auto\n</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme">Theme\n</string>
+    <string name="menu_dark_mode">Dark Mode</string>
+</resources>
